@@ -7,4 +7,4 @@ _Remark: in order for the company to be listed here, the office located in Trici
 | Company                                                                 | City        | Android | iOS  | Backend |
 |-------------------------------------------------------------------------|-------------|:-------:|:----:|:-------:|
 | [Bright Inventions](https://brightinventions.pl/)                       | Gdańsk      | ✅      |       | ✅      |
-| [SPEEDNET](https://speednet.pl/)                                        | Gdańsk      | ✅      | ✅    | ✅      |
+| [SPEEDNET](https://speednet.pl/)                                        | Gdańsk      | ✅      | ✅    |        |
