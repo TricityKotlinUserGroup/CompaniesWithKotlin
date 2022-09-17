@@ -4,6 +4,8 @@ The goal of the below list is to gather a list of companies using Kotlin in thei
 
 _Remark: in order for the company to be listed here, the office located in Tricity has to own one or more teams owning projects using Kotlin. A counter-example would be a company with multiple offices in Poland, with an office in Warsaw coding in Kotlin, where its Gdańsk office would never touch Kotlin._
 
+See also: [Tricity Kotlin User Group](https://www.meetup.com/tricity-kotlin-user-group/)
+
 | Company                                                                 | City        | Android | iOS  | Backend |
 |-------------------------------------------------------------------------|-------------|:-------:|:----:|:-------:|
 | [Bright Inventions](https://brightinventions.pl/)                       | Gdańsk      | ✅      |       | ✅      |
