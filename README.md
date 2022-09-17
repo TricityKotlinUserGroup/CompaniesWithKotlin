@@ -9,3 +9,4 @@ _Remark: in order for the company to be listed here, the office located in Trici
 | [Bright Inventions](https://brightinventions.pl/)                       | Gdańsk      | ✅      |       | ✅      |
 | [SPEEDNET](https://speednet.pl/)                                        | Gdańsk      | ✅      | ✅    |        |
 | [Objectivity](https://objectivity.co.uk/)                               | Gdańsk      |         |       | ✅      |
+| [Interlogic](https://www.interlogic.dk/poland/)                         | Gdańsk      |         |       | ✅      |
