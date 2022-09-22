@@ -12,3 +12,4 @@ See also: [Tricity Kotlin User Group](https://www.meetup.com/tricity-kotlin-user
 | [SPEEDNET](https://speednet.pl/)                                        | Gdańsk      | ✅      | ✅    |        |
 | [Objectivity](https://objectivity.co.uk/)                               | Gdańsk      |         |       | ✅      |
 | [InterLogic](https://www.interlogic.dk/poland/)                         | Gdańsk      |         |       | ✅      |
+| [Allegro](https://allegro.pl/praca)                                     | Gdańsk      | ✅      |       | ✅      |
