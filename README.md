@@ -14,4 +14,5 @@ See also: [Tricity Kotlin User Group](https://www.meetup.com/tricity-kotlin-user
 | [InterLogic](https://www.interlogic.dk/poland/)                         | Gdańsk      |         |       | ✅      |
 | [Allegro](https://allegro.pl/praca)                                     | Gdańsk      | ✅      |       | ✅      |
 | [Lufthansa Systems](https://lhsystems.pl/)                              | Gdańsk      |         |       | ✅      |
+[ [Hapag-Lloyd](https://www.hapag-lloyd.com/)                             | Gdańsk      |         |       | ✅      |
 
