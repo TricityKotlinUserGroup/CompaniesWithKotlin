@@ -15,3 +15,4 @@ See also: [Tricity Kotlin User Group](https://www.meetup.com/tricity-kotlin-user
 | [Lufthansa Systems](https://lhsystems.pl/)                              | Gdańsk      |         |       | ✅      |
 | [Objectivity](https://objectivity.co.uk/)                               | Gdańsk      |         |       | ✅      |
 | [SPEEDNET](https://speednet.pl/)                                        | Gdańsk      | ✅      | ✅    |         |
+| [SpotOn](https://pl.spoton.com/)                                        | Gdańsk      | ✅      |       |         |
