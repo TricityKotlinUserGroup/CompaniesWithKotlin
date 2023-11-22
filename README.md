@@ -8,11 +8,10 @@ See also: [Tricity Kotlin User Group](https://www.meetup.com/tricity-kotlin-user
 
 | Company                                                                 | City        | Android | iOS  | Backend |
 |-------------------------------------------------------------------------|-------------|:-------:|:----:|:-------:|
-| [Bright Inventions](https://brightinventions.pl/)                       | Gdańsk      | ✅      |       | ✅      |
-| [SPEEDNET](https://speednet.pl/)                                        | Gdańsk      | ✅      | ✅    |        |
-| [Objectivity](https://objectivity.co.uk/)                               | Gdańsk      |         |       | ✅      |
-| [InterLogic](https://www.interlogic.dk/poland/)                         | Gdańsk      |         |       | ✅      |
 | [Allegro](https://allegro.pl/praca)                                     | Gdańsk      | ✅      |       | ✅      |
+| [Bright Inventions](https://brightinventions.pl/)                       | Gdańsk      | ✅      |       | ✅      |
+| [Hapag-Lloyd](https://www.hapag-lloyd.com/)                             | Gdańsk      |         |       | ✅      |
+| [InterLogic](https://www.interlogic.dk/poland/)                         | Gdańsk      |         |       | ✅      |
 | [Lufthansa Systems](https://lhsystems.pl/)                              | Gdańsk      |         |       | ✅      |
-[ [Hapag-Lloyd](https://www.hapag-lloyd.com/)                             | Gdańsk      |         |       | ✅      |
-
+| [Objectivity](https://objectivity.co.uk/)                               | Gdańsk      |         |       | ✅      |
+| [SPEEDNET](https://speednet.pl/)                                        | Gdańsk      | ✅      | ✅    |         |
