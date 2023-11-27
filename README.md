@@ -14,5 +14,6 @@ See also: [Tricity Kotlin User Group](https://www.meetup.com/tricity-kotlin-user
 | [InterLogic](https://www.interlogic.dk/poland/)                         | Gdańsk      |         |       | ✅      |
 | [Lufthansa Systems](https://lhsystems.pl/)                              | Gdańsk      |         |       | ✅      |
 | [Objectivity](https://objectivity.co.uk/)                               | Gdańsk      |         |       | ✅      |
+| [Onwelo](https://onwelo.com/pl/)                                        | Gdańsk      |         |       | ✅      |
 | [SPEEDNET](https://speednet.pl/)                                        | Gdańsk      | ✅      | ✅    | ✅      |
 | [SpotOn](https://pl.spoton.com/)                                        | Gdańsk      | ✅      |       |         |
